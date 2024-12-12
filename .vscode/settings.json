@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jsfx": "Jesusonic",
+        ".env*": "dotenv",
+        "*.tcc": "cpp"
+    }
+}

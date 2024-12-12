@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
+                "${workspaceFolder}/platform/nutekt-digital/**/*",
                 "${workspaceFolder}/platform/nutekt-digital/inc/**",
                 "${workspaceFolder}/platform/nutekt-digital/inc/utils",
                 "${workspaceFolder}/platform/nutekt-digital/inc/dsp",
