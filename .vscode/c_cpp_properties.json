@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/platform/nutekt-digital/inc/**",
+                "${workspaceFolder}/platform/nutekt-digital/inc/utils",
+                "${workspaceFolder}/platform/nutekt-digital/inc/dsp",
+                "${workspaceFolder}/platform/ext/CMSIS/CMSIS/Include"
+            ],
+            "defines": [
+                "STM32F446xE",
+                "CORTEX_USE_FPU=TRUE",
+                "ARM_MATH_CM4",
+                "__FPU_PRESENT"
+            ],
+            "compilerPath": "/home/dh/development/logue-sdk/tools/gcc/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
