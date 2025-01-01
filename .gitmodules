@@ -2,5 +2,5 @@
 	path = platform/ext/CMSIS
 	url = https://github.com/ARM-software/CMSIS.git
 [submodule "platform/nutekt-digital/HP303"]
-	path = platform/nutekt-digital/HP303
-	url = https://github.com/daniel-c-harvey/HP303.git
+	path = platform/nutekt-digital/djFX
+	url = https://github.com/daniel-c-harvey/djFX.git
